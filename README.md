@@ -12,7 +12,16 @@
 
 ### Vue.js
 
-## Machine Learning
+## Machine Learning & NLP
+
+### NLP
+
+- [Natural Language Processing is Fun!](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
+
+## Data Science
+
+### Data Visualization
+- [Data Curious 2017 Year in Review: My favourite data stories, datasets and visualisations from last year](https://towardsdatascience.com/data-curious-2017-year-in-review-my-favourite-data-stories-datasets-and-visualisations-from-last-4214bf634f56)
 
 ## UI/UX
 
@@ -20,6 +29,10 @@
 
 - [3D filp menu](https://uimovement.com/ui/5878/3d-flip-menu/)
 - [Statistics Side Bar](https://uimovement.com/ui/5888/statistics-side-bar/)
+
+### Good UX
+
+- [Designing with Data](https://uxdesign.cc/designing-with-data-ed721ffa008e)
 
 ### User Testing
 
