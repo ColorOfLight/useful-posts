@@ -12,6 +12,10 @@
 
 ### Vue.js
 
+### Server
+
+- [Fractal - Nodejs app structure](https://codeburst.io/fractal-a-nodejs-app-structure-for-infinite-scale-d74dda57ee11)
+
 ## Machine Learning & NLP
 
 ### NLP
@@ -37,3 +41,7 @@
 ### User Testing
 
 - [A usability test on WhatsApp Web](https://uxdesign.cc/a-usability-test-on-whatsapp-web-e45ccb88cc5d)
+
+## Design
+
+- [CSS Gradient](https://cssgradient.io/)
